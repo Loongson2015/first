@@ -21,5 +21,16 @@ public interface UserDao {
 	 * admin创建的delete方法
 	 */
 	void delete();
+	
+	
+	/**
+	 * 李四写的查询用户的方法
+	 */
+	void queryUser();
+	
+	/**
+	 * aa的方法
+	 */
+	void aa();
 
 }
