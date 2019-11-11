@@ -16,5 +16,10 @@ public interface UserDao {
 	 * 这是修改的方法
 	 */
 	void update();
+	
+	/**
+	 * admin创建的delete方法
+	 */
+	void delete();
 
 }
