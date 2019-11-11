@@ -47,6 +47,12 @@ public interface UserDao {
 	 */
 	void findUserById();
 	
+	/**
+	 *根据id得到用户信息
+	 * @return
+	 */
+	int getUserById();
+	
 	
 
 }
