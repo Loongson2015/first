@@ -41,5 +41,12 @@ public interface UserDao {
 
 	
 	
+	
+	/**
+	 * testbranch写的findUserById方法
+	 */
+	void findUserById();
+	
+	
 
 }
