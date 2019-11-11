@@ -33,9 +33,13 @@ public interface UserDao {
 	 */
 	void aa();
 	
+
 	/**
 	 * admin最新写的edit的方法
 	 */
 	void editUser();
+
+	
+	
 
 }
