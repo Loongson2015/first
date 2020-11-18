@@ -52,6 +52,12 @@ public interface UserDao {
 	 * @return
 	 */
 	int getUserById();
+
+
+	/**(
+	 * 单元测试
+	 */
+	void fun2();
 	
 	
 
