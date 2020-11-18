@@ -59,6 +59,9 @@ public interface UserDao {
 	 */
 	void fun2();
 	
+	//单元测试3
+	void fun3();
+	
 	
 
 }
